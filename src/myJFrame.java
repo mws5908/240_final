@@ -5,7 +5,7 @@ public class myJFrame extends JFrame
 {
 	public myJFrame ()
 	{
-		super ("Group 9 Frame new");
+		super ("Group 9");
 		
 
   	 	myJPanel mjp = new myJPanel();
